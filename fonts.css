@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "RacleysSemiBold 8OnEM";
+    src: url("fonts/RacleysSemiBold-8OnEM.ttf") format("truetype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "RacleysLight lxozD";
+    src: url("fonts/RacleysLight-lxozD.ttf") format("truetype");
+    font-display: swap;
+}
